@@ -76,3 +76,23 @@ function openKickSauber()
 {
     window.location.href="KickSauber.html";
 }
+function openWins()
+{
+    window.location.href="Wins.html";
+}
+function openWins2024()
+{
+    window.location.href="Wins2024.html";
+}
+function openSeason2024()
+{
+    window.location.href="Season2024.html";
+}
+function openAustralian2025()
+{
+    window.location.href="Australia2025.html";
+}
+function openJapan2025()
+{
+    window.location.href="Japan2025.html";
+}
